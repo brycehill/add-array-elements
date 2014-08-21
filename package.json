@@ -1,0 +1,25 @@
+{
+  "name": "add-array-elements",
+  "version": "0.0.1",
+  "description": "Given n number of integer filled arrays, sum the index at each array and return a new array containing the sums.",
+  "main": "add.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brycehill/add-array-elements"
+  },
+  "keywords": [
+    "add",
+    "array",
+    "elements",
+    "arrays"
+  ],
+  "author": "Bryce Hill <http://brycehill.net>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brycehill/add-array-elements/issues"
+  },
+  "homepage": "https://github.com/brycehill/add-array-elements"
+}
